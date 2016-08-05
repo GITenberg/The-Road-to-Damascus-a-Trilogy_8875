@@ -1,0 +1,45 @@
+_repo: The-Road-to-Damascus-a-Trilogy_8875
+_version: 0.0.1
+alternative_title: Till Damaskus. English
+contributor:
+  commentator:
+    agent_name: Ollén, Gunnar
+    alias: Ollen, Gunnar
+    birthdate: 1913
+    gutenberg_agent_id: '34061'
+    url: http://www.gutenberg.org/2009/agents/34061
+  translator:
+    agent_name: Rawson, Graham
+    alias: Rawson, Graham Stanhope
+    birthdate: 1890
+    gutenberg_agent_id: '34060'
+    url: http://www.gutenberg.org/2009/agents/34060
+creator:
+  author:
+    agent_name: Strindberg, August
+    alias: Strindberg, Johan August
+    birthdate: 1849
+    deathdate: 1912
+    gutenberg_agent_id: '1609'
+    url: http://www.gutenberg.org/2009/agents/1609
+    wikipedia: http://en.wikipedia.org/wiki/August_Strindberg
+description: Swedish writer August Strinberg played a major role in introducing a
+  more modernist sensibility into his native country's literature, producing several
+  major novels and plays that are still regarded as some of the most significant works
+  of twentieth-century Swedish literature. The Road to Damascus is a dramatic trilogy
+  that broke new ground in stagecraft and characterization, touching on complex themes
+  of spirituality and selfhood in the process.
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8875'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Drama'
+- GITenberg
+title: The Road to Damascus, a Trilogy
+url: http://www.gutenberg.org/ebooks/8875
