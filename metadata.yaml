@@ -1,5 +1,5 @@
 _repo: The-Road-to-Damascus-a-Trilogy_8875
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Till Damaskus. English
 contributor:
   commentator:
@@ -14,6 +14,9 @@ contributor:
     birthdate: 1890
     gutenberg_agent_id: '34060'
     url: http://www.gutenberg.org/2009/agents/34060
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Strindberg, August
@@ -29,6 +32,8 @@ description: Swedish writer August Strinberg played a major role in introducing 
   of twentieth-century Swedish literature. The Road to Damascus is a dramatic trilogy
   that broke new ground in stagecraft and characterization, touching on complex themes
   of spirituality and selfhood in the process.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8875#The-Road-to-Damascus-a-Trilogy
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
 identifiers:
